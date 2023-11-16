@@ -6,8 +6,8 @@ import scipy
 
 
 # Define your dataset directories
-train_dir = 'train'
-test_dir = 'test'
+train_dir = 'train_data'
+test_dir = 'test_data'
 
 # Image dimensions
 image_height = 100
